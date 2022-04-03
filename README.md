@@ -6,21 +6,26 @@ A game created for Ludum Dare Jam 50
 * Team: Stefan Vasilev, Ivana Gigova, Katya Pateva
 
 Rules
+
 You are two pirates, stuck on a sinking ship. Control both characters and perform different actions, in order to delay the ship filling with water further.
-•	The bigger character can throw crates to prevent them from breaking your ship further
-•	The smaller character can use a water pump to remove any water on the deck
-•	Both characters can repair broken ship parts
+*	The bigger character can throw crates to prevent them from breaking your ship further
+*	The smaller character can use a water pump to remove any water on the deck
+*	Both characters can repair broken ship parts
+
 Boosts
+
 Watch out for glowing crates, falling from the sky! They can provide you with speed boosts!
-•	Hammer boosts your repair ship parts time
-•	Boot boosts your running speed
-•	Bucket removes some water form the ship
+*	Hammer boosts your repair ship parts time
+*	Boot boosts your running speed
+*	Bucket removes some water form the ship
+
 Controls
-•	Left Character: WASD (Move) + Spacebar (Interact)
-•	Right Characted: Arrow keys (Move) + RCTRL (Interact)
-•	Throw Crates: Hold Interact Button
-•	Use Water Pump: Hold Interact Button
-•	Repair: Press repetedly Interact Button
+
+*	Left Character: WASD (Move) + Spacebar (Interact)
+*	Right Characted: Arrow keys (Move) + RCTRL (Interact)
+*	Throw Crates: Hold Interact Button
+*	Use Water Pump: Hold Interact Button
+*	Repair: Press repetedly Interact Button
 
 !!!! ALL THE ART IS DONE USING UNREAL'S BASIC USHAPEMESHES AND BRUSHES !!!!!
 
