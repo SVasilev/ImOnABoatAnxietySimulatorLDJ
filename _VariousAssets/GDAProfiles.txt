@@ -1,0 +1,48 @@
+1  Adriyana Ivelinova Ivanova, 20
+        Почва като концепт артист, но почва да я кефи всичко
+2  Bogdan Galinov Ganev, 30
+3  Boris Sergeev Stamatov, 20
+        Game Design
+        Narrative
+        UX
+4  Vasil Vasilev Florov, 22
+        Концепт арт, илюстрация, керъктър и по-малко енв
+        Narrative
+5  Vladimir Yuriev Stanimirov, 19
+        Концепт арт (крийчър енв)
+        UI, UX
+6  Gabriela Rosenova Hristova, 28
+7  Георги Иванов Болов, 21
+8  Denis Ablam, 20
+        Game Design
+        Maybe Programming
+9  Denitsa Sashkova Tasheva, 27
+10 Diana Ivanova Hristova, 20
+11 Dilyan Dilyanov Nedelchev, 20
+        Концепт арт (енвиронмент), иска да знае как енвиронмент арта как влиза в едно ниво
+        Като хоби - Narrative
+12 Eduard Martin Hachikyan, 20
+13 Ivan-Antonio Gerganov, 18
+14 Kristian Ivelinov Yotov, 19
+        Concept art
+        Modelling
+        Има интерес и в други сфери
+15 Martin Ivano Sheyretov, 21
+        Coding, цъкал е Godot
+        Narrative
+        Game Design
+        Level Design
+16 Martin Orlinov Kyulhandzhiev, 20
+17 Samuil Krasimirov Tomov, 20
+18 Sara Moskova Ivanova, 19
+        Започва като концепт артист
+        Сега й е интересно Modelling
+        Малко Engine и Scripting
+19 Stela Stefanova Raeva, 21
+20 Steliyana Krumova Krumova, 28
+21 Stefan Borisov Babadzhanov, 20
+22 Stefan Todorov Zarkov, 24
+        VFX
+        Engine
+        Blueprints
+23 Teodor Nachkov Tenev, 20
