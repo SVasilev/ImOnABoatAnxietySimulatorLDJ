@@ -73,4 +73,8 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Exclude StarterContent
 Content/StarterContent
+
+# Exclude any videos
+*.mp4
