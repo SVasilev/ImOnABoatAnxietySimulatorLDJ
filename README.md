@@ -5,6 +5,8 @@ A game created for Ludum Dare Jam 50
 * Duration: 02.04.2022 to 05.04.2022
 * Team: Stefan Vasilev, Ivana Gigova, Katya Pateva
 * Ludum Dare Jam Page: https://ldjam.com/events/ludum-dare/50/im-on-a-boat-anxiety-simulator
+* Gameplay Video: https://www.youtube.com/watch?v=LGwR5N9opXs
+* Download Link: https://stefanv.itch.io/im-on-a-boat-anxiety-simulator
 
 Rules
 
